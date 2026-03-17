@@ -1,2 +1,2 @@
-# Clase-
+# 2DS-
 Prueba
